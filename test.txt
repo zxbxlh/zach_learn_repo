@@ -1,4 +1,0 @@
-this is a test file.
-#1 this is zach first edit.
-#2 haha this line will have a conflict.
-	--zach
